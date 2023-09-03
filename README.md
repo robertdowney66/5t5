@@ -17,6 +17,6 @@
 
 [^昂扬]:形容我是一个很那个的人
 
-可以于GitHub寻找我[GitHub](https://github.com"一个网站")
+可以于GitHub寻找我[GitHub](https://github.com "一个网站")
 
 ```make
